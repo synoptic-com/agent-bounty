@@ -5,7 +5,9 @@ The dataset for the agent consists of around 28k tweets from a subset of crypto 
 To request access to the dataset please email georgiy@synoptic.com with your team name. Include emails of team members who need access. 
 There are no train/eval/test splits. It is your call how to split the data. Due to the nature of the bounty, we recommend using the latest tweets for testing, unlike the usual probabilistic sampling methods.
 
-Note: if you find some twitter profiles that can be useful for you, let us know and we might add them as well, if time allows.
+Note: The dataset is in a MongoDB database. You can use language specific clients to read the files or install [Compass](https://www.mongodb.com/products/tools/compass) and export the data as json/csv.
+
+Note: If you find some twitter profiles that can be useful for you, let us know and we might add them as well, if time allows.
 
 ### Compute and API keys
 We encourage you to use available models and APIs to build the agent. Please email georgiy@synoptic.com to request OpenAI or Anthropic api keys. 
