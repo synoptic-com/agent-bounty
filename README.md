@@ -1,4 +1,4 @@
-# AI Agent Bounty - UPenn Blockchain Hackathon 2025
+# AI Agent Bounty Resources - UPenn Blockchain Hackathon 2025
 
 ### Dataset
 The dataset for the agent consists of around 28k tweets from a subset of crypto twitter accounts between 2017 and 2025. 
